@@ -3,3 +3,4 @@ tutorial.py
 *pycache
 clientTest.py
 serverTest.py
+__pycache__/
