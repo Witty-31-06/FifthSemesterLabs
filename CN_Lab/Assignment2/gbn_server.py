@@ -7,8 +7,11 @@ import random
 import threading
 import acknowledgement
 import utils
+import json
+
+config = json.load(open('config.json'))
 colors = utils.ANSI_COLOR()
-seq_nums = (1 << 2)  # Sequence Numbers
+seq_nums = (1 << config['m'])  # Sequence Numbers
 Sw = seq_nums - 1  # Sliding Window Size
 # Shared resource
 Rn = 0
