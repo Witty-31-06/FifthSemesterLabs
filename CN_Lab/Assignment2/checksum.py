@@ -18,7 +18,7 @@ def generate_checksum(chunks):
 
     # Return the checksum by flipping bits
     ans = ''.join('1' if x == '0' else '0' for x in res_bin)
-    print(ans)
+    # print(ans)
     return ans
 
 def check_checksum(chunks, checksum):
@@ -49,7 +49,7 @@ def check_checksum(chunks, checksum):
 def generate_checksum_codeword(dataword):
     padded_dataword = dataword.ljust((len(dataword) + 31) // 32 * 32, '0')
     chunks = [padded_dataword[i:i+32] for i in range(0, len(padded_dataword), 32)]
-    print('checksum chunks', chunks)
+    # print('checksum chunks', chunks)
     checksum = generate_checksum(chunks)
     return dataword + checksum
 
