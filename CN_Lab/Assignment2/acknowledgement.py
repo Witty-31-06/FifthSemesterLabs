@@ -12,3 +12,6 @@ class NAK:
             
     def __str__(self):
         return f"NAK#{self.seq_num}"
+    
+    def get_nak_no(nak: str):
+        return int(nak.split("#")[1])
