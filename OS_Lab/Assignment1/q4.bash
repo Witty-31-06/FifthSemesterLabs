@@ -8,36 +8,30 @@ get_day_of_week() {
 # Function to calculate the difference in years, months, and days between a birthday and today
 calculate_age() {
     birth_date=$1
-    today=$(date +%Y-%m-%d)
-    age=$(echo "$today" | awk -F- -v bdate="$birth_date" '
-    {
-        byear=substr(bdate, 1, 4)
-        bmonth=substr(bdate, 6, 2)
-        bday=substr(bdate, 9, 2)
 
-        tyear=$1
-        tmonth=$2
-        tday=$3
+    # Extract the current year and month
+    current_year=$(date +%Y)
+    current_month=$(date +%m)
 
-        # Calculate year difference
-        years=tyear - byear
-        months=tmonth - bmonth
-        days=tday - bday
+    # Extract the birth year and month
+    birth_year=${birth_date:0:4}
+    birth_month=${birth_date:5:2}
 
-        # Adjust for month and day differences
-        if (months < 0) {
-            years--
-            months += 12
-        }
-        if (days < 0) {
-            months--
-            days += 30  # Rough estimation for days in month
-        }
+    # Calculate the age in years and months
+    age_years=$((current_year - birth_year))
+    age_months=$((current_month - birth_month))
 
-        print years " years, " months " months, " days " days"
-    }')
-    echo "$age"
+    # Adjust if the current month is less than the birth month
+    if [ "$age_months" -lt 0 ]; then
+        age_years=$((age_years - 1))
+        age_months=$((age_months + 12))
+    fi
+
+    # Output the age in years and months
+    echo "$age_years years, $age_months months"
 }
+
+
 
 # Read two birthdays from the user
 read -p "Enter the first birthday (DD/MM/YYYY): " birthday1

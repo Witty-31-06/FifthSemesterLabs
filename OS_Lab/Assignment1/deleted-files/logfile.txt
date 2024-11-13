@@ -1,0 +1,8 @@
+joy%Disk usage%Thursday 12 September 2024 10:53:30 AM IST
+joy%List large files (size >= 2000)%Thursday 12 September 2024 10:53:46 AM IST
+joy%View Log File%Thursday 12 September 2024 10:53:56 AM IST
+joy%Remove file hi.txt%Thursday 12 September 2024 10:54:34 AM IST
+joy%Display greetings%Thursday 19 September 2024 01:03:03 PM IST
+joy%List large files (size >= 1000)%Thursday 19 September 2024 01:03:07 PM IST
+joy%Disk usage%Thursday 19 September 2024 01:03:24 PM IST
+joy%View Log File%Thursday 19 September 2024 01:03:27 PM IST

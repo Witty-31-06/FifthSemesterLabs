@@ -1,0 +1,14791 @@
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+B interrupted.
+Exponential backoffs performed by: X 
+Jamming by B
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+Y interrupted.
+Exponential backoffs performed by: X 
+Jamming by Y
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+X started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+X started sending
+X interrupted.
+Exponential backoffs performed by: Z 
+Jamming by X
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+Y started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+Y started sending
+Y interrupted.
+Exponential backoffs performed by: X 
+Jamming by Y
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+.
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+.
+B started sending
+.
+.
+.
+.
+Busy bit enabled
+.
+.
+.
+.
+.
+.
+.
+Transmission successful. Busy bit disabled
+.
+B started sending

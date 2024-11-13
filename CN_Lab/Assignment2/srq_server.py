@@ -37,7 +37,7 @@ def handle_request_worker(data, addr, server):
     global marked
     global final_dict
     global nakSent
-    global ackNeeded
+    global ackNeeded    
     global temp_dict
     data = data.decode()
     is_valid = checksum.validate_checksum_codeword(data)
@@ -51,29 +51,30 @@ def handle_request_worker(data, addr, server):
         print(time.time(), f"NAK#{Rn} sent")
         nakSent = True
         return
-    f = frame.Frame.parse_frame(data)
-    frame_no = f.frame_no
-    if frame_no != Rn and nakSent == False:
-        print(f"Expected frame {Rn}")
-        if q > 0.5:
-            print(time.time(), f"NAK#{Rn} lost")
-            return
-        server.sendto(str(acknowledgement.NAK(Rn)).encode(), addr)
-        print(time.time(), f"NAK#{Rn} sent")
-        nakSent = True
-    elif frame_no in range(Rn, Rn+Sw) and marked[frame_no] == False:
-        marked[frame_no] = True
-        temp_dict[frame_no] = f
-        while marked[Rn]:
-            final_dict[Rn] = temp_dict[Rn]
-            del temp_dict[Rn]
-            Rn = Rn+1
-            ackNeeded = True
-        if ackNeeded:
-            print(f"ACK#{Rn} sent...")
-            server.sendto(str(acknowledgement.ACK(Rn)).encode(), addr)
-            nakSent = False
-            ackNeeded = False
+    if is_valid:
+        f = frame.Frame.parse_frame(data)
+        frame_no = f.frame_no
+        if frame_no != Rn and nakSent == False:
+            print(f"Expected frame {Rn}")
+            if q > 0.5:
+                print(time.time(), f"NAK#{Rn} lost")
+                return
+            server.sendto(str(acknowledgement.NAK(Rn)).encode(), addr)
+            print(time.time(), f"NAK#{Rn} sent")
+            nakSent = True
+        elif frame_no in range(Rn, Rn+Sw) and marked[frame_no] == False:
+            marked[frame_no] = True
+            temp_dict[frame_no] = f
+            while marked[Rn]:
+                final_dict[Rn] = temp_dict[Rn]
+                del temp_dict[Rn]
+                Rn = Rn+1
+                ackNeeded = True
+            if ackNeeded:
+                print(f"ACK#{Rn} sent...")
+                server.sendto(str(acknowledgement.ACK(Rn)).encode(), addr)
+                nakSent = False
+                ackNeeded = False
 
 
 
